@@ -9,3 +9,5 @@ playwright-report/
 .dev.vars
 *.tsbuildinfo
 next-env.d.ts
+deploy/worker.js
+deploy/deploy-call.js
